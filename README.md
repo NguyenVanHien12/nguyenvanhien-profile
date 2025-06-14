@@ -1,6 +1,6 @@
 # Chào mừng! Đây là Nguyễn Văn Hiên
 
-🌟 **Học viên An ninh mạng | Đam mê khám phá công nghệ và lập trình**
+🌟 **Sinh viên Ngành An toàn thông tin | Đam mê khám phá công nghệ và lập trình**
 
 ## Về tôi
 - 🎓 Đang học tại [Tên trường hoặc tổ chức, nếu có]
