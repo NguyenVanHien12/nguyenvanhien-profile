@@ -1,4 +1,4 @@
-# Chào mừng! Đây là Nguyễn Văn Hiên
+# Chào mừng! Mình là Nguyễn Văn Hiên
 
 🌟 **Sinh viên Ngành An toàn thông tin | Đam mê khám phá công nghệ và lập trình**
 
